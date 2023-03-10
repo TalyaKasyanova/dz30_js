@@ -1,0 +1,11 @@
+ul {
+  font-size: 20px;
+}
+
+#to-buy {
+  cursor: pointer;
+}
+
+#bought {
+  text-decoration: line-through;
+}
